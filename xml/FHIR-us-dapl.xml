@@ -6,18 +6,16 @@
 <artifactPageExtension value="-examples"/>
 <artifactPageExtension value="-mappings"/>
 <artifact id="Bundle/dapl-deidentified-bundle" key="Bundle-dapl-deidentified-bundle" name="Bundle Example containing de-identified data using DAPL profiles"/>
-<artifact deprecated="true" id="StructureDefinition/dapl-adverseevent" key="StructureDefinition-dapl-adverseevent" name="DAPL AdverseEvent"/>
+<artifact id="StructureDefinition/dapl-deidentified-adverseevent" key="StructureDefinition-dapl-adverseevent" name="DAPL De-identified AdverseEvent"/>
 <artifact id="StructureDefinition/dapl-age-extension" key="StructureDefinition-dapl-age-extension" name="DAPL Age Extension"/>
-<artifact deprecated="true" id="StructureDefinition/dapl-allergyintolerance" key="StructureDefinition-dapl-allergyintolerance" name="DAPL AllergyIntolerance"/>
+<artifact id="StructureDefinition/dapl-deidentified-allergyintolerance" key="StructureDefinition-dapl-allergyintolerance" name="DAPL De-identified AllergyIntolerance"/>
 <artifact id="StructureDefinition/dapl-anonymized-dataset" key="StructureDefinition-dapl-anonymized-dataset" name="DAPL Anonymized Dataset"/>
 <artifact id="MeasureReport/dapl-anonymized-dataset-example" key="MeasureReport-dapl-anonymized-dataset-example" name="DAPL Anonymized Dataset Example"/>
-<artifact deprecated="true" id="ValueSet/dapl-birthsex-codes" key="ValueSet-dapl-birthsex-codes" name="DAPL Birth Sex Codes"/>
-<artifact deprecated="true" id="StructureDefinition/dapl-birthsex-extension" key="StructureDefinition-dapl-birthsex-extension" name="DAPL Birth Sex Extension"/>
+<artifact id="ValueSet/dapl-sex-codes" key="ValueSet-dapl-birthsex-codes" name="DAPL Sex Codes"/>  
+<artifact id="StructureDefinition/dapl-sex-extension" key="StructureDefinition-dapl-birthsex-extension" name="DAPL Sex Extension"/>
 <artifact id="StructureDefinition/dapl-clinical-result-observation" key="StructureDefinition-dapl-clinical-result-observation" name="DAPL Clinical Result Observation"/>
 <artifact id="StructureDefinition/dapl-coverage" key="StructureDefinition-dapl-coverage" name="DAPL Coverage"/>
 <artifact id="StructureDefinition/dapl-deidentified-instant-extension" key="StructureDefinition-dapl-deidentified-instant-extension" name="DAPL De-Identified Instant Extension"/>
-<artifact id="StructureDefinition/dapl-deidentified-adverseevent" key="StructureDefinition-dapl-deidentified-adverseevent" name="DAPL De-identified AdverseEvent"/>
-<artifact id="StructureDefinition/dapl-deidentified-allergyintolerance" key="StructureDefinition-dapl-deidentified-allergyintolerance" name="DAPL De-identified AllergyIntolerance"/>
 <artifact id="AllergyIntolerance/de-identified-example" key="AllergyIntolerance-de-identified-example" name="DAPL De-identified AllergyIntolerance Example"/>
 <artifact id="Observation/de-identified-clinical-result-observation-example" key="Observation-de-identified-clinical-result-observation-example" name="DAPL De-identified ClinicalResult Example"/>
 <artifact id="StructureDefinition/dapl-deidentified-encounter" key="StructureDefinition-dapl-deidentified-encounter" name="DAPL De-identified Encounter"/>
@@ -58,8 +56,6 @@
 <artifact id="StructureDefinition/dapl-procedure" key="StructureDefinition-dapl-procedure" name="DAPL Procedure"/>
 <artifact id="StructureDefinition/dapl-recordedDate-extension" key="StructureDefinition-dapl-recordedDate-extension" name="DAPL RecordedDate Extension"/>
 <artifact id="StructureDefinition/dapl-servicerequest" key="StructureDefinition-dapl-servicerequest" name="DAPL ServiceRequest"/>
-<artifact id="ValueSet/dapl-sex-codes" key="ValueSet-dapl-sex-codes" name="DAPL Sex Codes"/>
-<artifact id="StructureDefinition/dapl-sex-extension" key="StructureDefinition-dapl-sex-extension" name="DAPL Sex Extension"/>
 <artifact id="Condition/example" key="Condition-example" name="US Core Condition Example"/>
 <artifact id="Encounter/example" key="Encounter-example" name="US Core Encounter Example"/>
 <artifact id="Organization/holy-healthcare" key="Organization-holy-healthcare" name="US Core Healthcare Organization Example"/>
