@@ -146,6 +146,7 @@
 <artifact id="Observation/exercise-per-week" key="Observation-exercise-per-week" name="Exercise Per Week Example"/>
 <artifact id="Questionnaire/exercise-vital-sign" key="Questionnaire-exercise-vital-sign" name="Exercise Vital Sign Questionnaire Example"/>
 <artifact id="QuestionnaireResponse/exercise-vital-sign" key="QuestionnaireResponse-exercise-vital-sign" name="Exercise Vital Sign QuestionnaireResponse Example"/>
+<artifact id="Parameters/manifest" key="Parameters-manifest" name="Expansion Parameters"/>
 <artifact deprecated="true" key="FamilyHistory" name="FamilyMemberHistory"/>
 <artifact id="FamilyMemberHistory/familymemberhistory-example" key="FamilyMemberHistory-familymemberhistory-example" name="FamilyMemberHistory Example"/>
 <artifact deprecated="true" key="Goal" name="Goal"/>
@@ -169,7 +170,6 @@
 <artifact deprecated="true" id="Observation/hunger-question-example" key="Observation-hunger-question-example" name="Hunger Question Example"/>
 <artifact deprecated="true" key="Immunization" name="Immunization"/>
 <artifact id="Immunization/imm-1" key="Immunization-imm-1" name="Immunization Example 1"/>
-<artifact id="Parameters/manifest" key="Parameters-manifest" name="Input Expansion Parameters"/>
 <artifact id="Observation/jugular-vein-distension" key="Observation-jugular-vein-distension" name="Jugular vein distension Example"/>
 <artifact deprecated="true" id="ValueSet/simple-language" key="ValueSet-simple-language" name="Language codes with language and optionally a region modifier"/>
 <artifact id="Observation/length" key="Observation-length" name="Length Example"/>
